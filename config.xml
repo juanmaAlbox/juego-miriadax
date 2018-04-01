@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="cordova-plugin-whitelist"/>
-    <plugin name="cordova-plugin-device-motion"/>
-    <plugin name="cordova-plugin-screen-orientation"/>
+    <plugin name="cordova-plugin-whitelist" spec="1.3.3" />
+    <plugin name="cordova-plugin-device-motion" spec="2.0.0" />
+    <plugin name="cordova-plugin-screen-orientation" spec="3.0.1" />
 </widget>
