@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.h4ckademy.juego.2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Juego 3</name>
+    <description>
+        Juego Final Phaser. Curso MiriadaX: Creando Apps
+    </description>
+    <author email="" href="">
+        Juan Manuel Martínez 
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-whitelist"/>
+    <plugin name="cordova-plugin-device-motion"/>
+    <plugin name="cordova-plugin-screen-orientation"/>
+</widget>
