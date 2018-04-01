@@ -4,12 +4,12 @@
     <description>
         Juego Final Phaser. Curso MiriadaX: Creando Apps
     </description>
-    <author email="" href="">
+    <author email="juanmanuel0710@gmail.com" href="juanmanuel0710.neocities.org">
         Juan Manuel Martínez 
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="cordova-plugin-whitelist" spec="1.3.3" />
     <plugin name="cordova-plugin-device-motion" spec="2.0.0" />
     <plugin name="cordova-plugin-screen-orientation" spec="3.0.1" />
+   <plugin name="cordova-plugin-whitelist" spec="1.3.3" />
 </widget>
